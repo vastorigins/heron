@@ -15,4 +15,4 @@ Download the app now from the following links:
 * [Android](https://play.google.com/store/apps/details?id=com.vastorigins.heron)
 
 
-Check out our [privacy policy](https://heron.vastorigins.com/privacy.html)
+Check out our [privacy policy](https://heron.vastorigins.com/privacy.html).

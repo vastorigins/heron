@@ -30,7 +30,7 @@ We use cookies and similar tracking technologies to track the activity on our Se
 
 Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
 
-You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service. You can learn more how to manage cookies in the [Browser Cookies Guide](https://privacypolicies.com/blog/how-to-delete-cookies/).
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service. 
 
 Examples of Cookies we use:
 
